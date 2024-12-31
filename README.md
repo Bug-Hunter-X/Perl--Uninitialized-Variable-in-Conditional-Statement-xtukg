@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Perl: using an uninitialized variable in a conditional statement. The script attempts to compare an undefined variable to a string, leading to unexpected behavior. The solution shows how to initialize the variable or use defined() to handle the potential undefined value.
